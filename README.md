@@ -7,7 +7,7 @@ Live:
 
 [Fanart](https://alonrotem.github.io/the-cool-sun-kodi-wizard/Resources/fanart.jpg)     
 [Thumbnail](https://alonrotem.github.io/the-cool-sun-kodi-wizard/Resources/thumbnail.png)    
-[Wizard html](https://alonrotem.github.io/the-cool-sun-kodi-wizard/wizard.html)
+[Wizard html](https://alonrotem.github.io/the-cool-sun-kodi-wizard/Resources/wizard.html)
 
 Storage of the build is with [Git Large File Storage (LFS)](https://docs.github.com/en/repositories/working-with-files/managing-large-files/configuring-git-large-file-storage) at [the-cool-sun-kodi-storage](https://github.com/alonrotem/the-cool-sun-kodi-storage).
 
